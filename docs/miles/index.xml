@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miles on Fannin Family Film Fanatics</title>
-    <link>/f4/miles/</link>
+    <link>/miles/</link>
     <description>Recent content in Miles on Fannin Family Film Fanatics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/f4/miles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/miles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Miles</title>
-      <link>/f4/miles/about-miles/</link>
+      <link>/miles/about-miles/</link>
       <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>/f4/miles/about-miles/</guid>
+      <guid>/miles/about-miles/</guid>
       <description>Miles likes space and legos.</description>
     </item>
     
