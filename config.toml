@@ -1,0 +1,44 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "Fannin Family Film Fanatics"
+theme = "f4"
+googleAnalytics = ""
+disqusShortname = "PirateGrunt"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "Leia"
+    url = "/leia/"
+[[menu.main]]
+    name = "Miles"
+    url = "/miles/"
+[[menu.main]]
+    name = "Inessa"
+    url = "/inessa/"
+[[menu.main]]
+    name = "Brian"
+    url = "/brian/"
+
+[params]
+    description = "A website where a family talks about movies."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.11.0"
+    highlightjsCDN = "//cdn.bootcss.com"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    MathJaxCDN = "//cdn.bootcss.com"
+    MathJaxVersion = "2.7.1"
+
+    [params.logo]
+    url = "logo.jpg"
+    width = 50
+    height = 50
+    alt = "Logo"
