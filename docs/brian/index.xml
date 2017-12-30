@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brians on Fannin Family Film Fanatics</title>
+    <link>/f4/brian/</link>
+    <description>Recent content in Brians on Fannin Family Film Fanatics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/f4/brian/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Brian</title>
+      <link>/f4/brian/about-brian/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/f4/brian/about-brian/</guid>
+      <description>Brian is a guy who likes movies.</description>
+    </item>
+    
+    <item>
+      <title>Star Wars: The Last Jedi</title>
+      <link>/f4/brian/star-wars-the-last-jedi/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/f4/brian/star-wars-the-last-jedi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

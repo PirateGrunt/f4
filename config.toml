@@ -1,10 +1,11 @@
-baseurl = "/"
+baseurl = "/f4/"
 languageCode = "en-us"
 title = "Fannin Family Film Fanatics"
 theme = "f4"
 googleAnalytics = ""
 disqusShortname = "PirateGrunt"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+publishDir = "docs"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science Fiction on Fannin Family Film Fanatics</title>
+    <link>/f4/tags/science-fiction/</link>
+    <description>Recent content in Science Fiction on Fannin Family Film Fanatics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/f4/tags/science-fiction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Star Wars: The Last Jedi</title>
+      <link>/f4/brian/star-wars-the-last-jedi/</link>
+      <pubDate>Fri, 29 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/f4/brian/star-wars-the-last-jedi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
